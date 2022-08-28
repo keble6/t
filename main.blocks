@@ -1,0 +1,1 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="J^dP5EZcZYI^:Wq5OoOn" x="0" y="0"><statement name="HANDLER"><block type="device_rest" id="gQkUpY0;(TsSb~U`Qma*"><value name="duration"><shadow type="device_beat" id="x/rpTlAk.YEF?vy48C^#"><field name="fraction">BeatFraction.Whole</field></shadow></value></block></statement></block></xml>
